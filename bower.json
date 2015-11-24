@@ -1,0 +1,22 @@
+{
+  "name": "flash2svg",
+  "version": "0.0.0",
+  "authors": [
+    "ylt"
+  ],
+  "description": "translate flash to svg",
+  "main": "public/index.html",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "directory": "public/bower_components",
+  "dependencies": {
+    "jquery": "~2.1.4",
+    "Snap.svg": "~0.4.1"
+  }
+}

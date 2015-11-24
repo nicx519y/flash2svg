@@ -1,0 +1,7 @@
+<dialog id="sample" title=" xJSFL - Installation complete!" buttons="accept">
+	<flash class="control" id="flash" src="swf/splash.swf" width="320" height="280" />
+	<spacer />
+	<label width="310" value="Thanks for installing xJSFL!" />
+	<spacer />
+	<label width="310" value="To start using xJSFL now, restart Flash, then go to: Window > Other Panels > xJSFL Snippets." />
+</dialog>

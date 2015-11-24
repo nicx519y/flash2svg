@@ -1,0 +1,67 @@
+stage
+	different element types on stage
+	
+		elements
+		
+			shape
+				group
+				rectangle
+				oval
+				
+			text
+				static
+				dynamic
+				input
+				
+			instance
+				bitmap
+				video
+				embedded video
+				linked video
+				compiled clip
+				
+				symbol
+					movieclip
+					graphic
+					button
+					
+	hierarchies
+	selection
+	
+elements
+	
+layers
+	layers
+		different start and end points
+		empty layers
+		animated layers
+			keyframed
+			motion paths
+		animation
+		guided
+		masked
+	
+library
+	different library types
+		folder
+		movieclip
+		graphic
+		button
+		bitmap
+		sound
+		video
+		font
+		component
+		compiled clip
+	
+	hierarchy
+		folders
+		files
+		
+	different kinds of names
+		short
+		path/to/item
+	
+	different export types
+		exported
+		non-exported

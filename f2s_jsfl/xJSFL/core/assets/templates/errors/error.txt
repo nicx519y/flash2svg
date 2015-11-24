@@ -1,0 +1,6 @@
+{index} > {code}
+
+	path: {path}
+	file: {file}
+	line: {line}
+	

@@ -1,0 +1,1 @@
+gulp create -p uc_p4_l105_05_01s -s 'reset' -i 'mapC*, border*, eud_*, sa_*, na_*, as_*, globe, siatka, Symbol*, starfield*'

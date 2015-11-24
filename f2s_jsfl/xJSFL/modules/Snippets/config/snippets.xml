@@ -1,0 +1,14 @@
+<settings>
+	<template name="jsfl" uri="{user}assets/templates/snippet.jsfl.txt"/>
+	<icons uri="{xjsfl}modules/Snippets/assets/icons/16x16">
+		<icon name="folder_closed" value="Filesystem/folder/folder_closed.png"/>
+		<icon name="folder_open" value="Filesystem/folder/folder.png"/>
+		<icon name="file" value="Filesystem/file/file_code.png"/>
+		<icon name="function" value="Filesystem/file/file_actionscript.png"/>
+	</icons>
+	<sets current="User Snippets">
+		<set name="User Snippets" uri="{user}jsfl/snippets/"/>
+		<set name="Commands Folder" uri="{flash}Commands/"/>
+		<set name="Code Examples" uri="{xjsfl}modules/Code Examples/jsfl/"/>
+	</sets>
+</settings>

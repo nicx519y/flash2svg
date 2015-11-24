@@ -1,0 +1,3 @@
+tell application "Adobe Flash CC 2015"
+open alias "Users:yaoxiaoyi:Documents:f2s_svn:project:f2s_jsfl:output:Flash2Svg.jsfl"
+end tell

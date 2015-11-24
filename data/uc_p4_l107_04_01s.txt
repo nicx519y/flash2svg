@@ -1,0 +1,1 @@
+gulp create -p uc_p4_l107_04_01s -s 'reset' -i 'Symbol 5, Symbol 7, Symbol 9, Symbol 11, Symbol 14, Symbol 14 copy, Symbol 23, Symbol 23, Symbol 23 copy, Symbol copy 2, point, slonce 00, 613, mfl9, bg'

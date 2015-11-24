@@ -1,0 +1,30 @@
+{
+  "name": "flash2svg",
+  "version": "1.0.0",
+  "description": "translate flash to svg",
+  "main": "public/index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ylt",
+  "license": "ISC",
+  "devDependencies": {
+    "bower": "^1.5.3",
+    "commander": "^2.8.1",
+    "del": "^2.0.2",
+    "exec": "^0.2.1",
+    "glob": "^5.0.14",
+    "gulp": "^3.9.0",
+    "gulp-concat": "^2.6.0",
+    "gulp-gzip": "^1.2.0",
+    "gulp-if": "^2.0.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-replace": "^0.5.4",
+    "gulp-run-sequence": "^0.3.2",
+    "gulp-uglify": "^1.4.1",
+    "gulp-zip": "^3.0.2",
+    "minify": "^2.0.0",
+    "replace": "^0.3.0",
+    "zip-paths": "^0.3.1"
+  }
+}

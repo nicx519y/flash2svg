@@ -1,0 +1,53 @@
+6:7:43 - items.length:3
+6:7:43 - item.itemType: graphic
+6:7:43 - item.symbolType: graphic
+6:7:43 - item.name:shape2
+6:7:43 - layer.name: shape 2 layer 2
+6:7:43 - path: 
+M -180.95 -83 L -19 -83
+M -19 -83 L -19 78.95
+M -19 78.95 L -180.95 78.95
+M -180.95 78.95 L -180.95 -83
+Z
+stroke weight: 1 stroke color: #000066
+fill 0: style : noFillfill 1: color : #0033CCfill 1: style : solidfill 1: matrix : [object Object]
+
+
+6:7:43 - layer.name: shape 2 layer 3
+6:7:43 - path: 
+M 157 -57 L 163.65 -62.45
+1 M 232 -64 C 268 -33 220 -34 225 -1 
+2 M 225 -1 C 230 32 255 2 269 33 
+3 M 269 33 C 283 64 259 110 215 88 
+4 M 215 88 C 171 66 140 74 133 14 
+5 M 133 14 C 126 -46 157 -57 157 -57 
+Z
+stroke weight: 1 stroke color: #000066
+fill 0: style : noFillfill 1: color : #CC3300fill 1: style : solidfill 1: matrix : [object Object]
+
+
+6:7:43 - layer.name: shape 2layer4
+6:7:43 - path: 
+1 M 91 -39 C 146 -34 161 -3 169 48 
+2 M 169 48 C 177 99 185 116 251 111 
+3 M 251 111 C 317 106 308 221.95 217 205.95 
+4 M 217 205.95 C 126 189.95 86 214 75 141 
+5 M 75 141 C 64 68 104 85 81 45 
+6 M 81 45 C 58 5 52 -14 33 -8 
+7 M 33 -8 C 14 -2 -1 -1 -1 -1 
+Z
+stroke weight: 1 stroke color: #000066
+fill 0: style : noFillfill 1: style : noFill
+
+
+6:7:43 - layer.name: shape 2 layer1
+6:7:43 - path: 
+M 41.85 -130.45 L 48 -121
+M 48 -121 L 12 -105
+M 12 -105 L -42.95 -113
+M -42.95 -113 L -38.95 -142
+Z
+stroke weight: 1 stroke color: #000066
+fill 0: style : noFillfill 1: color : #CC3333fill 1: style : solidfill 1: matrix : [object Object]
+
+

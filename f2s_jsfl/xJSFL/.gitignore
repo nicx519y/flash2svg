@@ -1,0 +1,15 @@
+/desktop.ini
+_archive/
+_old/
+/dev
+/core/temp
+/core/ui/dialog.xul
+/user/temp
+/user/jsfl/libraries/load modules.jsfl
+/modules/Snippets/config/data
+/modules/Code Examples/assets/*.swf
+/modules/Snippets/config/snippets
+/user/config/xjsfl.xml
+/core/jsfl/run/temp
+/core/logs
+.DS_Store
